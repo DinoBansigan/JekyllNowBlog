@@ -1,4 +1,7 @@
-# Checking Custom Domain Name IP in Windows
+---
+layout: post
+title: Checking Custom Domain Name IP in Windows
+---
 
 I finally have my own custom domain and this site is now on dinobansigan.com as opposed to dinobansigan.github.io. 
 I initially had trouble getting the site up and running on my custom domain. I [learned](https://help.github.com/articles/setting-up-an-apex-domain/) that you need to add A records to make a custom 
