@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Checking Custom Domain Name IP in Windows
-categories: [blog]
-tags: [NoteToSelf, CustomDomain]
+categories: [Blog]
+tags: [NoteToSelf, CustomDomain, Windows, Ping]
 ---
 
 I finally have my own custom domain and this site is now on dinobansigan.com as opposed to dinobansigan.github.io. 
