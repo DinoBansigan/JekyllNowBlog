@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Checking Custom Domain Name IP in Windows
-categories: [Blog]
+title: Checking Custom Domain Name IP Address in Windows
+categories: [Blog, Web Development]
 tags: [NoteToSelf, CustomDomain, Windows, Ping]
 ---
 
