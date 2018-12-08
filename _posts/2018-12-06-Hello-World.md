@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+categories: [Blog]
+tags: [Introduction]
 ---
 
 This has been a long time coming. I have talked about making my own website/blog for years... and I mean years. Just ask my wife, who is probably tired of hearing me talk about it. Well I finally got a website up and running. 
