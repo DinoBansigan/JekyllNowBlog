@@ -19,3 +19,5 @@ When I'm not writing code, I spend most of my time with my family. I love going 
 - [LinkedIn (Dino Bansigan)](https://www.linkedin.com/in/dinobansigan)
 - [Github (Dino Bansigan)](https://github.com/DinoBansigan)
 - [StackOverflow (Dino Bansigan)](https://stackoverflow.com/users/5041911/dino-bansigan)
+
+If you really want to send me an email, you can reach me at *dinobansigan **[at]** live.com*
