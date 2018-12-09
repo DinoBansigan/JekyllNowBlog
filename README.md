@@ -1,4 +1,4 @@
-*This repository is a fork from barryclark's repository. I'm leaving most of the readme content as is, with some minor modifications to give credit where credit is due, because there is a lot of good info on it.*   
+*This repository is a fork from barryclark's repository. I'm leaving most of the readme content as is because there is a lot of good info on it, but made some minor modifications to give credit where credit is due.*   
 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
