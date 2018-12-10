@@ -11,7 +11,7 @@ Wordpress. At the very least, you would need to learn how to write content using
 creating and maintaining your blog. (Markdown is very easy to learn though even for non developers.)
 
 Regardless of whether you are a developer or not, this approach is pretty easy to follow and you will end up with a simple blog that just 
-works. You don't even need a custom domain to try this out and your blog will be hosted for free on [Github pages](https://pages.github.com/). 
+works. You don't even need a custom domain to try this out and your blog will be hosted for free on [Github pages](https://pages.github.com/). *This is how this blog/site was created as well.*
 
 There are a number of articles/posts about this topic already so I won't rehash what others have already written. I'll keep this short 
 and simple and just point you to where you need to go to get this done.
