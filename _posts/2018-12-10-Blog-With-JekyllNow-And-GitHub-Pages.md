@@ -8,7 +8,7 @@ If you are a software developer, this is probably the quickest and most fun way 
 If you are not a developer and don't have time to tinker with your blog, I think you might be better off creating a blog using a CMS like 
 Wordpress. At the very least, you would need to learn how to write content using 
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you are going to follow this approach to 
-creating and maintaining your blog. (Markdown is very easy to learn though even for non developers.)
+creating and maintaining your blog. *(Markdown is very easy to learn though even for non developers.)*
 
 Regardless of whether you are a developer or not, this approach is pretty easy to follow and you will end up with a simple blog that just 
 works. You don't even need a custom domain to try this out and your blog will be hosted for free on [Github pages](https://pages.github.com/). *This is how this blog/site was created as well.*
