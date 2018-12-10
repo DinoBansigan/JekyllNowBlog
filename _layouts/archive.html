@@ -16,8 +16,8 @@ layout: default
         <h3>{{ currentYear }}</h3>
       {% endif %}
     
-      {{ post.date | date: '%B %d, %Y' }} - <a style="font-weight: bold" href="{{ post.url }}">{{ post.title }}</a>   
-    
+      {{ post.date | date: '%B %d, %Y' }} - <a style="font-weight: bold" href="{{ post.url }}">{{ post.title }}</a>
+      <br />
     {% endfor %}
   </div>
 </article>
