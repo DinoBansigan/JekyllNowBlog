@@ -9,5 +9,8 @@ Today I ran into an issue where I was trying to debug an application and I was g
 
 ## Solution
 
-Turns out I had the solution configuration set to "Release" right from the start. The solution then was to set the solution configuration 
+Turns out I had the solution configuration set to "Release" right from the start. The fix then was to set the solution configuration 
 to "Debug" and then rebuild the solution. After that, I was able to attach to the process with no errors whatsoever.
+
+### Reference:
+[https://stackoverflow.com/questions/31732944/breakpoint-failed-to-bind-visual-studio-2015](https://stackoverflow.com/questions/31732944/breakpoint-failed-to-bind-visual-studio-2015)
