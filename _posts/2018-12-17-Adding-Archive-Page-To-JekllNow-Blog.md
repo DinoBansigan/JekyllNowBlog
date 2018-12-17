@@ -25,6 +25,7 @@ is almost like Razor, except it is only used to generate a static site/page. It 
 
 The content of the archive.html file will be as follows:
 ```
+{% raw  %}
 ---
 layout: default
 ---
@@ -32,7 +33,7 @@ layout: default
 <article class="page">
   <h1>{{ page.title }}</h1>
   <div class="entry">
-    {% raw  %}
+    
     {% assign previousYear = "" %}
     {% for post in site.posts %}
       {% capture currentYear %}
@@ -46,10 +47,10 @@ layout: default
     
       {{ post.date | date: '%B %d, %Y' }} - <a style="font-weight: bold" href="{{ post.url }}">{{ post.title }}</a>
       <br />
-    {% endfor %}
-    {% endraw  %}
+    {% endfor %}    
   </div>
 </article>
+{% endraw  %}
 ```
 All I'm trying to do here is get all the blog posts on this site and list them down by year. *Note that I am relying on the fact that 
 the list of blog posts returned by the [Jekyll Site Variable](https://jekyllrb.com/docs/variables/#site-variables) **site.posts** 
