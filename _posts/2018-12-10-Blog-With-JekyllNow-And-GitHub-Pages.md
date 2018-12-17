@@ -2,7 +2,7 @@
 layout: post
 title: Create a Blog Quickly with Jekyll and Github Pages
 categories: [Blog]
-tags: [Jekyll, JekyllNow, Github, GithubPages]
+tags: [Jekyll, Github]
 ---
 If you are a software developer, this is probably the quickest and most fun way to get a blog up and running in like 5 minutes. 
 If you are not a developer and don't have time to tinker with your blog, I think you might be better off creating a blog using a CMS like 
