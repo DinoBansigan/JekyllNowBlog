@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding Archive Page to Jekyll Now Blog!
+title: Adding an Archive Page to Jekyll Now Blog!
 categories: [Blog]
 tags: [Jekyll]
 ---
