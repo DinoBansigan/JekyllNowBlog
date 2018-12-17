@@ -32,6 +32,7 @@ layout: default
 <article class="page">
   <h1>{{ page.title }}</h1>
   <div class="entry">
+    {% raw  %}
     {% assign previousYear = "" %}
     {% for post in site.posts %}
       {% capture currentYear %}
@@ -46,6 +47,7 @@ layout: default
       {{ post.date | date: '%B %d, %Y' }} - <a style="font-weight: bold" href="{{ post.url }}">{{ post.title }}</a>
       <br />
     {% endfor %}
+    {% endraw  %}
   </div>
 </article>
 ```
