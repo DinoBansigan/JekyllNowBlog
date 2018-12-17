@@ -4,8 +4,7 @@ title: Adding an Archive Page to Jekyll Now Blog
 categories: [Blog]
 tags: [Jekyll]
 ---
-*Update: I am aware of the weird formatting issues with regards to the code that shows up on this post. I will look into why that is 
-happening.*
+*Update: I am aware of the issue where you cannot copy the code in the code blocks. I will look into why that is happening.*
 
 As I alluded to in my [previous post](https://dinobansigan.com/Blog-With-JekyllNow-And-GitHub-Pages/), part of the limitations with 
 creating a blog using the [Jekyll Now](https://github.com/barryclark/jekyll-now) repository, is that it didn't come with Archive and 
