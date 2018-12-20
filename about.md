@@ -10,7 +10,7 @@ I am a .NET Software Developer currently working for a financial company in the 
 
 I have this mindset that I will forever be a student of software development. I am always eager to learn about new technologies, new design patterns, anything that can help me become a better software developer. I have an interest in artificial intelligence and hope that I can get work on a project involving AI in the future. *(I keep telling my wife that if I'll ever go back to school, it will be to learn about artificial intelligence.)*
 
-I look at being a software developer not only as a means to pay the bills, but as an artform. I think solving problems by writing clean, beautiful code is very much like painting a masterpiece. I won't always end up with a masterpiece, but I like to take pride in my code. I think every developer should take pride in their code. At the end of the day, I'm someone who loves solving problems with code.
+I look at being a software developer not only as a means to pay the bills, but as an art form. I think solving problems by writing clean, beautiful code is very much like painting a masterpiece. I won't always end up with a masterpiece, but I like to take pride in my code. I think every developer should take pride in their code. At the end of the day, I'm someone who loves solving problems with code.
 
 ### More Information
 
