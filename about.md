@@ -6,11 +6,11 @@ permalink: /about/
 
 Hey there, my name is **Dino Bansigan**. 
 
-I am a .NET Software Developer currently working for a financial company in the DFW area. I enjoy working with C# and SQL Server. I love  writing code that talks to the database and vice versa. While we do use Entity Framework at work, I found that I prefer working with stored procedures more than using EF to talk to the database. I'm just as happy writing SQL scripts, as I am writing code in C#. I also like writing tests to make sure my code works.   
+I am a .NET Software Developer currently working for a financial company in the DFW area. I enjoy working with C# and SQL Server. I love  writing code that talks to the database and vice versa. While we do use Entity Framework at work, I found that I prefer working with stored procedures more than using EF to talk to the database. I'm just as happy writing SQL scripts, as I am writing code in C#.
 
 I have this mindset that I will forever be a student of software development. I am always eager to learn about new technologies, new design patterns, anything that can help me become a better software developer. I have an interest in artificial intelligence and hope that I can get work on a project involving AI in the future. *(I keep telling my wife that if I'll ever go back to school, it will be to learn about artificial intelligence.)*
 
-I look at being a software developer not only as a means to pay the bills, but as an art form. I think solving problems by writing clean, beautiful code is very much like painting a masterpiece. I won't always end up with a masterpiece, but I like to take pride in my code. I think every developer should take pride in their code. At the end of the day, I'm someone who loves solving problems with code.
+I look at being a software developer not only as a means to pay the bills, but as an art form. I think solving problems by writing clean, beautiful code is very much like painting a masterpiece. I won't always end up with a masterpiece, but I like to take pride in my code. I think every developer should take pride in their code.
 
 ### More Information
 
