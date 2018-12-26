@@ -1,6 +1,6 @@
 *This repository is a fork from barryclark's repository. I'm leaving most of the readme content as is because there is a lot of good info on it, but made some minor modifications to give credit where credit is due.*
 
-*I did make my own updates to this repository that added a few features missing from the original, namely an Archive and Tags page.*   
+*I did make my own updates to this repository that added a few features missing from the original, namely an Archive and Tags page. This repository used to be the source code for my personal blog/website, but I have since moved to using Wyam to building my site.*   
 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
